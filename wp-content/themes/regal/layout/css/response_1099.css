@@ -1,0 +1,59 @@
+@media (max-width: 1099px){
+    /*---------------
+        Main styles
+    ---------------*/
+
+
+
+    /*---------------
+        Header
+    ---------------*/
+    header .wrap_menu{
+        margin-left: 25px;
+    }
+
+    header .menu .item + .item{
+        margin-left: 20px;
+    }
+
+    header .language{
+        margin-left: 25px;
+    }
+
+    header .contact{
+        margin-left: 25px;
+    }
+
+    /*---------------
+        Main section
+    ---------------*/
+    .use_sector .item{
+        min-height: 500px;
+    }
+
+
+    .sect_form .col_r{
+        max-width: 480px;
+    }
+
+
+    .sect_about .col_l{
+        width: 370px;
+    }
+
+    .sect_about .col_r{
+        width: calc(100% - 400px);
+    }
+
+
+    /*---------------
+        Footer
+    ---------------*/
+    .modal .grid .col_l{
+        width: calc(50% - 35px);
+    }
+
+    .modal .grid .col_r{
+        width: 50%;
+    }
+}

@@ -1,0 +1,579 @@
+{
+    "created": "2021-04-26 14:13:58",
+    "version_dup": "4.0.0.1",
+    "version_wp": "5.7.1",
+    "version_db": "5.7.26",
+    "version_php": "7.3.12",
+    "version_os": "Linux",
+    "dbInfo": {
+        "buildMode": "PHPCHUNKING",
+        "charSetList": [
+            "utf8mb4",
+            "latin1"
+        ],
+        "collationList": [
+            "utf8mb4_unicode_ci",
+            "latin1_swedish_ci"
+        ],
+        "isTablesUpperCase": 0,
+        "isNameUpperCase": 0,
+        "name": "b29g44126195923",
+        "tablesBaseCount": 19,
+        "tablesFinalCount": 19,
+        "muFilteredTableCount": 0,
+        "tablesRowCount": 10314,
+        "tablesSizeOnDisk": 6808752,
+        "tablesList": {
+            "wp_ww4xnc3m0m_commentmeta": {
+                "rows": "0",
+                "size": 49152
+            },
+            "wp_ww4xnc3m0m_comments": {
+                "rows": "0",
+                "size": 98304
+            },
+            "wp_ww4xnc3m0m_duplicator_pro_entities": {
+                "rows": "5",
+                "size": 7792
+            },
+            "wp_ww4xnc3m0m_duplicator_pro_packages": {
+                "rows": "0",
+                "size": 17984
+            },
+            "wp_ww4xnc3m0m_links": {
+                "rows": "0",
+                "size": 32768
+            },
+            "wp_ww4xnc3m0m_options": {
+                "rows": "214",
+                "size": 2359296
+            },
+            "wp_ww4xnc3m0m_postmeta": {
+                "rows": "9,499",
+                "size": 3424256
+            },
+            "wp_ww4xnc3m0m_posts": {
+                "rows": "255",
+                "size": 229376
+            },
+            "wp_ww4xnc3m0m_term_relationships": {
+                "rows": "116",
+                "size": 32768
+            },
+            "wp_ww4xnc3m0m_term_taxonomy": {
+                "rows": "31",
+                "size": 49152
+            },
+            "wp_ww4xnc3m0m_termmeta": {
+                "rows": "0",
+                "size": 49152
+            },
+            "wp_ww4xnc3m0m_terms": {
+                "rows": "31",
+                "size": 49152
+            },
+            "wp_ww4xnc3m0m_trp_dictionary_ru_ru_en_us": {
+                "rows": "5",
+                "size": 65536
+            },
+            "wp_ww4xnc3m0m_trp_gettext_en_us": {
+                "rows": "42",
+                "size": 65536
+            },
+            "wp_ww4xnc3m0m_trp_gettext_ru_ru": {
+                "rows": "82",
+                "size": 65536
+            },
+            "wp_ww4xnc3m0m_trp_original_meta": {
+                "rows": "0",
+                "size": 65536
+            },
+            "wp_ww4xnc3m0m_trp_original_strings": {
+                "rows": "5",
+                "size": 32768
+            },
+            "wp_ww4xnc3m0m_usermeta": {
+                "rows": "29",
+                "size": 49152
+            },
+            "wp_ww4xnc3m0m_users": {
+                "rows": "0",
+                "size": 65536
+            }
+        },
+        "varLowerCaseTables": "0",
+        "version": "5.7.26",
+        "versionComment": "Percona Server (GPL), Release rel5.7, Revision 26",
+        "tableWiseRowCounts": {
+            "wp_ww4xnc3m0m_commentmeta": "0",
+            "wp_ww4xnc3m0m_comments": "1",
+            "wp_ww4xnc3m0m_duplicator_pro_entities": "5",
+            "wp_ww4xnc3m0m_duplicator_pro_packages": "1",
+            "wp_ww4xnc3m0m_links": "0",
+            "wp_ww4xnc3m0m_options": "220",
+            "wp_ww4xnc3m0m_postmeta": "11986",
+            "wp_ww4xnc3m0m_posts": "268",
+            "wp_ww4xnc3m0m_term_relationships": "124",
+            "wp_ww4xnc3m0m_term_taxonomy": "36",
+            "wp_ww4xnc3m0m_termmeta": "0",
+            "wp_ww4xnc3m0m_terms": "36",
+            "wp_ww4xnc3m0m_trp_dictionary_ru_ru_en_us": "5",
+            "wp_ww4xnc3m0m_trp_gettext_en_us": "42",
+            "wp_ww4xnc3m0m_trp_gettext_ru_ru": "82",
+            "wp_ww4xnc3m0m_trp_original_meta": "0",
+            "wp_ww4xnc3m0m_trp_original_strings": "5",
+            "wp_ww4xnc3m0m_usermeta": "30",
+            "wp_ww4xnc3m0m_users": "1"
+        },
+        "viewCount": 0,
+        "procCount": 0
+    },
+    "opts_delete": "[\"duplicator_pro_ui_view_state\",\"duplicator_pro_package_active\",\"duplicator_pro_settings\"]",
+    "blogname": "\u0424\u0430\u043d\u0435\u0440\u043d\u044b\u0439 \u043a\u043e\u043c\u0431\u0438\u043d\u0430\u0442 \u0420\u0435\u0433\u0430\u043b",
+    "wproot": "\/var\/www",
+    "wplogin_url": "https:\/\/fkregal.com\/wp-login.php",
+    "relative_content_dir": "wp-content",
+    "relative_plugins_dir": "wp-content\/plugins",
+    "relative_theme_dirs": [
+        "wp-content\/themes"
+    ],
+    "exportOnlyDB": 0,
+    "secure_on": false,
+    "secure_pass": "",
+    "skipscan": 0,
+    "dbhost": null,
+    "dbname": null,
+    "dbuser": null,
+    "dbpass": null,
+    "cache_wp": null,
+    "cache_path": null,
+    "cpnl_dbname": null,
+    "cpnl_host": null,
+    "cpnl_user": null,
+    "cpnl_pass": null,
+    "cpnl_enable": null,
+    "cpnl_connect": null,
+    "cpnl_dbaction": null,
+    "cpnl_dbhost": null,
+    "cpnl_dbuser": null,
+    "wp_tableprefix": "wp_ww4xnc3m0m_",
+    "mu_mode": 0,
+    "mu_generation": 0,
+    "subsites": [],
+    "main_site_id": 1,
+    "mu_is_filtered": false,
+    "license_limit": -1,
+    "brand": {
+        "logo": "<i class=\"fa fa-bolt fa-sm\"><\/i> Duplicator Pro",
+        "enabled": false,
+        "style": []
+    },
+    "wp_content_dir_base_name": "",
+    "packInfo": {
+        "packageId": 2,
+        "packageName": "20210426_fanernyjkombinatregal",
+        "packageHash": "4775e01-26141358",
+        "secondaryHash": "e98be7a-26141358"
+    },
+    "fileInfo": {
+        "dirCount": 1153,
+        "fileCount": 8300,
+        "size": 150219145
+    },
+    "wpInfo": {
+        "version": "5.7.1",
+        "is_multisite": false,
+        "network_id": 1,
+        "targetRoot": "\/var\/www",
+        "targetPaths": [
+            "\/var\/www"
+        ],
+        "adminUsers": [
+            {
+                "id": "1",
+                "user_login": "admin_main"
+            }
+        ],
+        "configs": {
+            "defines": {
+                "ABSPATH": {
+                    "value": "\/var\/www\/",
+                    "inWpConfig": true
+                },
+                "DB_CHARSET": {
+                    "value": "utf8",
+                    "inWpConfig": true
+                },
+                "DB_COLLATE": {
+                    "value": "",
+                    "inWpConfig": true
+                },
+                "AUTH_KEY": {
+                    "value": "24qjvIaNyg-*s7nV2G+-",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_KEY": {
+                    "value": "nMkIEZJ\/N\/ 44LV1@jQz",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_KEY": {
+                    "value": "sYbqy@d#j84X$z(tRpx%",
+                    "inWpConfig": true
+                },
+                "NONCE_KEY": {
+                    "value": "zQnj+D(r%IH3)_c8MjTO",
+                    "inWpConfig": true
+                },
+                "AUTH_SALT": {
+                    "value": "ydxH qpfNV_cFzAtAjZh",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_SALT": {
+                    "value": "T#8NFWZJ-NLX5_g1WC2H",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_SALT": {
+                    "value": "LH9LaXW1)d7Ra4B5nAp#",
+                    "inWpConfig": true
+                },
+                "NONCE_SALT": {
+                    "value": "jaq(WMqJY3@3+zgErL1F",
+                    "inWpConfig": true
+                },
+                "WP_CONTENT_DIR": {
+                    "value": "\/var\/www\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_CONTENT_URL": {
+                    "value": "https:\/\/fkregal.com\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_DIR": {
+                    "value": "\/var\/www\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_URL": {
+                    "value": "https:\/\/fkregal.com\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "PLUGINDIR": {
+                    "value": "wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "AUTOSAVE_INTERVAL": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "WP_POST_REVISIONS": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "COOKIE_DOMAIN": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "MULTISITE": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG": {
+                    "value": false,
+                    "inWpConfig": true
+                },
+                "SCRIPT_DEBUG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_LOG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_DISPLAY": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WP_MEMORY_LIMIT": {
+                    "value": "40M",
+                    "inWpConfig": false
+                },
+                "WP_MAX_MEMORY_LIMIT": {
+                    "value": "256M",
+                    "inWpConfig": false
+                },
+                "WP_CACHE": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_LANG_DIR": {
+                    "value": "\/var\/www\/wp-content\/languages",
+                    "inWpConfig": false
+                },
+                "FS_CHMOD_DIR": {
+                    "value": 453,
+                    "inWpConfig": true
+                },
+                "FS_CHMOD_FILE": {
+                    "value": 388,
+                    "inWpConfig": true
+                },
+                "FS_METHOD": {
+                    "value": "direct",
+                    "inWpConfig": true
+                },
+                "WP_CRON_LOCK_TIMEOUT": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "COOKIEPATH": {
+                    "value": "\/",
+                    "inWpConfig": false
+                },
+                "SITECOOKIEPATH": {
+                    "value": "\/",
+                    "inWpConfig": false
+                },
+                "ADMIN_COOKIE_PATH": {
+                    "value": "\/wp-admin",
+                    "inWpConfig": false
+                },
+                "PLUGINS_COOKIE_PATH": {
+                    "value": "\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "TEMPLATEPATH": {
+                    "value": "\/var\/www\/wp-content\/themes\/regal",
+                    "inWpConfig": false
+                },
+                "STYLESHEETPATH": {
+                    "value": "\/var\/www\/wp-content\/themes\/regal",
+                    "inWpConfig": false
+                },
+                "EMPTY_TRASH_DAYS": {
+                    "value": 30,
+                    "inWpConfig": false
+                },
+                "FORCE_SSL_ADMIN": {
+                    "value": true,
+                    "inWpConfig": true
+                },
+                "WPMU_PLUGIN_DIR": {
+                    "value": "\/var\/www\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_URL": {
+                    "value": "https:\/\/fkregal.com\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "MUPLUGINDIR": {
+                    "value": "wp-content\/mu-plugins",
+                    "inWpConfig": false
+                }
+            },
+            "realValues": {
+                "siteUrl": "https:\/\/fkregal.com",
+                "homeUrl": "https:\/\/fkregal.com",
+                "contentUrl": "https:\/\/fkregal.com\/wp-content",
+                "uploadBaseUrl": "https:\/\/fkregal.com\/wp-content\/uploads",
+                "pluginsUrl": "https:\/\/fkregal.com\/wp-content\/plugins",
+                "mupluginsUrl": "https:\/\/fkregal.com\/wp-content\/mu-plugins",
+                "themesUrl": "https:\/\/fkregal.com\/wp-content\/themes",
+                "originalPaths": {
+                    "home": "\/var\/www",
+                    "abs": "\/var\/www",
+                    "wpconfig": "\/var\/www",
+                    "wpcontent": "\/var\/www\/wp-content",
+                    "uploads": "\/var\/www\/wp-content\/uploads",
+                    "plugins": "\/var\/www\/wp-content\/plugins",
+                    "muplugins": "\/var\/www\/wp-content\/mu-plugins",
+                    "themes": "\/var\/www\/wp-content\/themes"
+                },
+                "archivePaths": {
+                    "home": "\/var\/www",
+                    "abs": "\/var\/www",
+                    "wpconfig": "\/var\/www",
+                    "wpcontent": "\/var\/www\/wp-content",
+                    "uploads": "\/var\/www\/wp-content\/uploads",
+                    "plugins": "\/var\/www\/wp-content\/plugins",
+                    "muplugins": "\/var\/www\/wp-content\/mu-plugins",
+                    "themes": "\/var\/www\/wp-content\/themes"
+                }
+            }
+        },
+        "plugins": {
+            "advanced-custom-fields-pro\/acf.php": {
+                "slug": "advanced-custom-fields-pro\/acf.php",
+                "name": "Advanced Custom Fields PRO",
+                "version": "5.9.5",
+                "pluginURI": "https:\/\/www.advancedcustomfields.com",
+                "author": "Elliot Condon",
+                "authorURI": "https:\/\/www.advancedcustomfields.com",
+                "description": "Customize WordPress with powerful, professional and intuitive fields.",
+                "title": "Advanced Custom Fields PRO",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "autoptimize\/autoptimize.php": {
+                "slug": "autoptimize\/autoptimize.php",
+                "name": "Autoptimize",
+                "version": "2.8.3",
+                "pluginURI": "https:\/\/autoptimize.com\/",
+                "author": "Frank Goossens (futtta)",
+                "authorURI": "https:\/\/autoptimize.com\/",
+                "description": "Makes your site faster by optimizing CSS, JS, Images, Google fonts and more.",
+                "title": "Autoptimize",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "cyr2lat\/cyr-to-lat.php": {
+                "slug": "cyr2lat\/cyr-to-lat.php",
+                "name": "Cyr-To-Lat",
+                "version": "5.0.4",
+                "pluginURI": "https:\/\/wordpress.org\/plugins\/cyr2lat\/",
+                "author": "Sergey Biryukov, Mikhail Kobzarev, Igor Gergel",
+                "authorURI": "https:\/\/profiles.wordpress.org\/sergeybiryukov\/",
+                "description": "Convert Non-Latin characters in post and term slugs to Latin characters. Useful for creating human-readable URLs. Based on the original plugin by Anton Skorobogatov.",
+                "title": "Cyr-To-Lat",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "duplicator-pro\/duplicator-pro.php": {
+                "slug": "duplicator-pro\/duplicator-pro.php",
+                "name": "Duplicator Pro",
+                "version": "4.0.0.1",
+                "pluginURI": "http:\/\/snapcreek.com\/",
+                "author": "Snap Creek",
+                "authorURI": "http:\/\/snapcreek.com",
+                "description": "Create, schedule and transfer a copy of your WordPress files and database. Duplicate and move a site from one location to another quickly.",
+                "title": "Duplicator Pro",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "gravityforms\/gravityforms.php": {
+                "slug": "gravityforms\/gravityforms.php",
+                "name": "Gravity Forms",
+                "version": "2.4.23",
+                "pluginURI": "https:\/\/gravityforms.com",
+                "author": "Gravity Forms",
+                "authorURI": "https:\/\/gravityforms.com",
+                "description": "Easily create web forms and manage form entries within the WordPress admin.",
+                "title": "Gravity Forms",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "polylang-pro\/polylang.php": {
+                "slug": "polylang-pro\/polylang.php",
+                "name": "Polylang Pro",
+                "version": "3.0.3",
+                "pluginURI": "https:\/\/polylang.pro",
+                "author": "WP SYNTEX",
+                "authorURI": "https:\/\/polylang.pro",
+                "description": "Adds multilingual capability to WordPress",
+                "title": "Polylang Pro",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "polylang-theme-strings\/mw-polylang-theme-strings.php": {
+                "slug": "polylang-theme-strings\/mw-polylang-theme-strings.php",
+                "name": "Polylang Theme Strings",
+                "version": "4.0",
+                "pluginURI": "http:\/\/modeewine.com\/en-polylang-theme-strings",
+                "author": "Modeewine",
+                "authorURI": "http:\/\/modeewine.com",
+                "description": "Automatic scanning of strings translation in the theme and registration of them in Polylang plugin. Extension for Polylang plugin.",
+                "title": "Polylang Theme Strings",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "sucuri-scanner\/sucuri.php": {
+                "slug": "sucuri-scanner\/sucuri.php",
+                "name": "Sucuri Security - Auditing, Malware Scanner and Hardening",
+                "version": "1.8.26",
+                "pluginURI": "https:\/\/wordpress.sucuri.net\/",
+                "author": "Sucuri Inc.",
+                "authorURI": "https:\/\/sucuri.net\/",
+                "description": "The <a href=\"https:\/\/sucuri.net\/\" target=\"_blank\">Sucuri<\/a> plugin provides the website owner the best Activity Auditing, SiteCheck Remote Malware Scanning, Effective Security Hardening and Post-Hack features. SiteCheck will check for malware, spam, blocklisting and other security issues like .htaccess redirects, hidden eval code, etc. The best thing about it is it's completely free.",
+                "title": "Sucuri Security - Auditing, Malware Scanner and Hardening",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "svg-support\/svg-support.php": {
+                "slug": "svg-support\/svg-support.php",
+                "name": "SVG Support",
+                "version": "2.3.18",
+                "pluginURI": "http:\/\/wordpress.org\/plugins\/svg-support\/",
+                "author": "Benbodhi",
+                "authorURI": "https:\/\/benbodhi.com",
+                "description": "Upload SVG files to the Media Library and render SVG files inline for direct styling\/animation of an SVG's internal elements using CSS\/JS.",
+                "title": "SVG Support",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "gd-system-plugin.php": {
+                "slug": "gd-system-plugin.php",
+                "name": "System Plugin",
+                "version": "4.5.5",
+                "pluginURI": "",
+                "author": "",
+                "authorURI": "",
+                "description": "",
+                "title": "System Plugin",
+                "networkActive": false,
+                "active": false,
+                "mustUse": true,
+                "dropIns": false
+            },
+            "object-cache.php": {
+                "slug": "object-cache.php",
+                "name": "APCu Object Cache",
+                "version": "",
+                "pluginURI": "https:\/\/wordpress.org\/plugins\/apcu\/",
+                "author": "Pierre Schmitz",
+                "authorURI": "https:\/\/pierre-schmitz.com\/",
+                "description": "APCu backend for the WP Object Cache.",
+                "title": "APCu Object Cache",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": true
+            }
+        }
+    },
+    "installer_base_name": "installer.php",
+    "installer_backup_name": "20210426_fanernyjkombinatregal_4775e01265ba7db73495_20210426141358_installer-backup.php",
+    "package_name": "20210426_fanernyjkombinatregal_4775e01265ba7db73495_20210426141358_archive.zip",
+    "package_hash": "4775e01-26141358",
+    "package_notes": "",
+    "mu_siteadmins": [
+        "admin"
+    ],
+    "overwriteInstallerParams": {
+        "fd_plugins": {
+            "value": [
+                "gd-system-plugin.php",
+                "object-cache.php"
+            ]
+        },
+        "wp_config": {
+            "value": "new",
+            "formStatus": "st_infoonly"
+        }
+    }
+}

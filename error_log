@@ -1,0 +1,9 @@
+[21-Apr-2021 16:14:03 Europe/Moscow] PHP Notice:  Undefined index: name in /home/bhx20279/regal.artmarstudio.ru/success.php on line 3
+[21-Apr-2021 16:14:03 Europe/Moscow] PHP Notice:  Undefined index: tel in /home/bhx20279/regal.artmarstudio.ru/success.php on line 4
+[21-Apr-2021 16:14:03 Europe/Moscow] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/bhx20279/regal.artmarstudio.ru/success.php on line 20
+[21-Apr-2021 16:21:55 Europe/Moscow] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/bhx20279/regal.artmarstudio.ru/success.php on line 20
+[21-Apr-2021 16:22:25 Europe/Moscow] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/bhx20279/regal.artmarstudio.ru/success.php on line 20
+[21-Apr-2021 16:26:14 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/bhx20279/regal.artmarstudio.ru/success.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bhx20279/regal.artmarstudio.ru/success.php on line 8

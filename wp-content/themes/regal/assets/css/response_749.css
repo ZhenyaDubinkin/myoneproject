@@ -1,0 +1,199 @@
+@media (max-width: 749px){
+    /*---------------
+        Main styles
+    ---------------*/
+    .main_margin{
+        margin-top: 75px;
+    }
+
+
+    .main_title{
+        font-size: 30px;
+    }
+
+    /*---------------
+        Header
+    ---------------*/
+    header .language{
+        display: none;
+    }
+
+    /*---------------
+        Main styles
+    ---------------*/
+    .main_banner .buttons{
+        margin-left: -35px;
+    }
+
+    .main_banner .buttons .link{
+        margin-left: 35px;
+    }
+
+
+    .catalog .right{
+    }
+
+    .catalog .left{
+        position: relative;
+        z-index: 15;
+    }
+
+    .catalog .wrap_table{
+        display: flex;
+        overflow-x: auto;
+
+        width: calc(100% + 70px);
+        margin-bottom: -15px;
+        margin-left: -35px;
+        padding-bottom: 15px;
+
+        scrollbar-color: #838383 #fff;     /* «цвет ползунка» «цвет полосы скроллбара» */
+        justify-content: flex-start;
+        align-items: flex-start;
+        align-content: flex-start;
+    }
+
+    .catalog .wrap_table:before,
+    .catalog .wrap_table:after{
+        width: 35px;
+        height: 1px;
+
+        content: '';
+
+        flex-shrink: 0;
+    }
+
+    .catalog .wrap_table::-webkit-scrollbar{
+        width: 10px;
+        height: 10px;
+        background-color: #fff;
+        border-radius: 10px;
+    }
+
+    .catalog .wrap_table::-webkit-scrollbar-thumb{
+        background: #838383;
+        border-radius: 10px;
+    }
+
+    .catalog table{
+        min-width: 630px;
+    }
+
+    .catalog table th:nth-child(1){
+        width: 95px;
+    }
+
+
+    .how_to_order .main_title{
+        margin-bottom: 30px;
+    }
+
+    .how_to_order .grid .item{
+        width: 100%;
+    }
+
+    .how_to_order .link{
+        width: 100%;
+    }
+
+
+    .use_sector .cont.big{
+        padding: 0;
+    }
+
+    .use_sector .main_title{
+        margin-bottom: 30px;
+    }
+
+    .use_sector .item{
+        min-height: 450px;
+    }
+
+
+    .logistics .grid{
+        margin-top: 30px;
+    }
+
+    .logistics .grid .wrap_item{
+        width: 100%;
+    }
+
+    .logistics .item{
+        padding-bottom: 60%;
+    }
+
+    .logistics .item .bg{
+        object-position: 50% 70%;
+    }
+
+
+    .sect_form{
+        margin-top: 0;
+    }
+
+    .sect_form .main_title{
+        font-size: 30px;
+    }
+
+
+    .sect_about .note{
+        padding-left: 0;
+    }
+
+    .sect_about .note:before{
+        display: none;
+    }
+
+
+    .contacts .items{
+        margin-bottom: 0;
+    }
+
+    .contacts .items .item{
+        width: 100%;
+        max-width: 100%;
+        margin-bottom: 0;
+    }
+
+    .contacts .item + .item{
+        margin-top: 70px;
+    }
+
+    .contacts .item .link button br{
+        display: none;
+    }
+
+    /*---------------
+       Sidebar
+    ---------------*/
+
+    /*---------------
+        Footer
+    ---------------*/
+    .modal .grid .col_r{
+        width: 100%;
+    }
+
+    .modal .grid .col_l{
+        width: 100%;
+        margin-top: 30px;
+    }
+
+    .modal_vacancy .grid .col_l{
+        margin-top: 0;
+    }
+
+    .modal_vacancy .grid .col_r{
+        margin-top: 30px;
+    }
+
+    .modal .images .img{
+        padding-bottom: 76%;
+    }
+    .hide-sm {
+        display: none;
+    }
+    .sect_about .grid .col_full .item {
+        max-width: 48%;
+    }
+}

@@ -1,0 +1,280 @@
+@media (max-width: 479px){
+    /*---------------
+        Main styles
+    ---------------*/
+    body{
+        font-size: 14px;
+    }
+
+    .cont{
+        padding: 0 20px;
+    }
+
+
+    .form .line_submit .submit{
+        width: 100%;
+    }
+
+    .form .line_submit .agree{
+        width: 100%;
+        margin-top: 15px;
+    }
+
+    .main_button{
+        width: 100%;
+    }
+
+    /*---------------
+        Header
+    ---------------*/
+    header .cont{
+        height: 45px;
+        padding-top: 10px;
+        padding-bottom: 5px;
+    }
+
+    header .logo{
+        width: 100px;
+    }
+
+    header .contact{
+        margin-top: 2px;
+        margin-left: 10px;
+    }
+
+    header .wrap_menu{
+        margin-top: 0;
+        margin-left: 16px;
+    }
+
+    header .menu{
+        top: 45px;
+
+        height: calc(100% - 45px);
+    }
+
+    header .menu .item.hidden_desk{
+        display: block;
+        margin-top: 30px;
+    }
+
+    header .menu .item .language{
+        display: flex;
+        margin-left: 0;
+    }
+
+    /*---------------
+        Main section
+    ---------------*/
+    .main_banner .abs{
+        right: 2px;
+        bottom: -44px;
+        left: auto;
+
+        width: 89px;
+    }
+    .main_banner .lines{
+        display: none;
+    }
+
+    .main_banner .cont{
+        padding-top: 45px;
+        padding-bottom: 45px;
+    }
+
+    .main_banner .subtitle{
+        font-size: 12px;
+
+        margin-bottom: 10px;
+    }
+
+    .main_banner .title{
+        font-size: 35px;
+        line-height: 40px;
+
+        margin-bottom: 20px;
+    }
+
+    .main_banner ul{
+        margin-bottom: 17px;
+    }
+
+    .main_banner .buttons{
+        margin-bottom: -11px;
+    }
+
+    .main_banner .buttons .link{
+        width: 100%;
+        margin-bottom: 11px;
+    }
+
+
+    .catalog .abs{
+        top: -122px;
+        right: 2px;
+        left: auto;
+
+        width: 89px;
+    }
+
+    .catalog table{
+        min-width: 520px;
+    }
+
+    .catalog .wrap_table {
+        width: calc(100% + 40px);
+        margin-left: -20px;
+    }
+
+    .catalog .wrap_table:before,
+    .catalog .wrap_table:after {
+        width: 20px;
+        height: 1px;
+        content: '';
+        flex-shrink: 0;
+    }
+
+    .catalog table th{
+        font-size: 10px;
+        line-height: 15px;
+
+        padding-right: 7px;
+        padding-bottom: 5px;
+
+        vertical-align: top;
+    }
+
+    .catalog table th:nth-child(3){
+        min-width: 83px;
+    }
+
+    .catalog table td{
+        font-size: 16px;
+        line-height: 23px;
+
+        padding-top: 8px;
+        padding-bottom: 8px;
+    }
+
+    .catalog table td button{
+        white-space: nowrap;
+    }
+
+
+    .how_to_order .abs{
+        top: 38px;
+        right: -104px;
+    }
+
+
+    .use_sector .cont{
+        padding: 0 20px;
+    }
+
+    .use_sector .grid .item{
+        width: 100%;
+    }
+
+
+    .logistics .item{
+        transition: .3s linear;
+    }
+
+    .logistics .item:hover{
+        padding-bottom: 88%;
+    }
+
+
+    .sect_form{
+        padding: 60px 0;
+    }
+
+    .sect_form .col_r{
+        margin-top: 30px;
+    }
+
+    .sect_about ul{
+        margin-bottom: 35px;
+    }
+
+    .sect_about ul li:before{
+        top: 4px;
+    }
+
+    .sect_about .col_r{
+        margin-top: 35px;
+    }
+
+    .sect_about .items{
+        margin-top: 35px;
+    }
+
+
+    .contacts .adress{
+        margin-top: 25px;
+    }
+
+    .contacts .col_r{
+        width: calc(100% + 40px);
+        margin-right: -20px;
+        margin-left: -20px;
+    }
+
+    /*---------------
+        Footer
+    ---------------*/
+    footer.main_margin{
+        margin-top: 25px;
+        padding: 35px 0 15px;
+    }
+
+    footer .top{
+        margin-bottom: -30px;
+    }
+
+    footer .top .column{
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    footer .top .contact{
+        text-align: left;
+    }
+
+    footer .top .menu{
+        margin-bottom: -15px;
+        margin-left: -15px;
+    }
+
+    footer .top .menu .item{
+        width: calc(50% - 15px);
+        margin-bottom: 15px;
+        margin-left: 15px;
+    }
+
+    footer .bottom{
+        margin-top: 50px;
+    }
+
+
+
+    .fancybox-slide--html.fancybox-slide{
+        padding: 0;
+    }
+
+    .modal{
+        padding: 30px 20px;
+    }
+
+    .modal_data{
+        margin-top: 40px;
+    }
+
+    .modal .form .line_submit{
+        margin-top: 40px;
+    }
+
+    .modal_vacancy .img{
+        padding-bottom: 77%;
+    }
+}
